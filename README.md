@@ -1,2 +1,1 @@
-# MLStockPredictor
-StockPredictML is a repository with code for machine learning-based stock price prediction. It includes data preprocessing, feature engineering, and models like linear regression and LSTM, enabling accurate stock price forecasts. Ideal for researchers and practitioners in finance.
+MLStockPredictor is a repository that contains code and resources for implementing machine learning algorithms to predict stock prices. It provides data preprocessing techniques, feature engineering methods, and models such as linear regression, SVM, and LSTM for accurate stock price predictions. This repository aims to assist researchers and practitioners in developing robust and reliable stock prediction models using machine learning techniques.
